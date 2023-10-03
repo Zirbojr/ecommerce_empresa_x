@@ -19,3 +19,9 @@ __Melhorias 1__, _Melhorias 2_, **_Melhorias 3 e ETC_**...
 * JavaScript
 * PHP
 * MySQL
+
+### Funcionalidades a desenvolver:
+
+1. Área de membros
+2. Integração com outros pagamentos
+3. Sistema de bônus primeira compra
