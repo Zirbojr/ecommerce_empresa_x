@@ -44,3 +44,11 @@ __Melhorias 1__, _Melhorias 2_, **_Melhorias 3 e ETC_**...
 contribuidor principal: https://github.com/Zirbojr
 
 [![Logo da Google](https://www.google.com.br/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)](https://www.google.com.br/)
+
+## Código da função soma
+
+```javascript
+funcion soma(a, b) {
+ retorn a + b;
+}
+```
