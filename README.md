@@ -37,7 +37,7 @@ __Melhorias 1__, _Melhorias 2_, **_Melhorias 3 e ETC_**...
 
 ![Escudo do Santos](https://upload.wikimedia.org/wikipedia/commons/3/35/Santos_logo.svg)
 
-[google](https://www.google.com.br/)
+[Google](https://www.google.com.br/)
 
 [www.google.com.br](https://www.google.com.br/)
 
