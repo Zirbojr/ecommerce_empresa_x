@@ -32,3 +32,7 @@ __Melhorias 1__, _Melhorias 2_, **_Melhorias 3 e ETC_**...
 ### Imagem local
 
 ![Imagem DH](img/DH.jpg)
+
+#### Imagem externa
+
+![Escudo do Santos](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.m.wikipedia.org%2Fwiki%2FFicheiro%3ASantos_logo.svg&psig=AOvVaw1dZfGgAowbn21DTND2N52d&ust=1696541427046000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiwr7qr3YEDFQAAAAAdAAAAABAE)
