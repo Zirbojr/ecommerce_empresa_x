@@ -28,3 +28,7 @@ __Melhorias 1__, _Melhorias 2_, **_Melhorias 3 e ETC_**...
     3. CSS diferente para grupos de cliente
 2. Integração com outros pagamentos
 3. Sistema de bônus primeira compra
+
+### Imagem local
+
+![Imagem DH](img/DH.jpg)
